@@ -1,0 +1,10 @@
+.contenedor{
+    width:300px;
+    margin:50px;
+    display: flex;
+    flex-direction: column;
+}
+
+img{
+    margin-top: 5px;
+}
